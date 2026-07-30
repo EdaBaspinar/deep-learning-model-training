@@ -36,13 +36,4 @@ Bu repository, Aksaray Üniversitesi Yönetim Bilişim Sistemleri bölümü kaps
 * **EfficientNetB0:** Test Doğruluğu = **%53.00**
 * **Custom CNN V4 (Ablasyon Kazananı):** Test Doğruluğu = **%52.54** (Dense 64 + ReLU + Adam)
 
----
 
-## 📈 5. Görsel Özetler ve Eğitim Eğrileri
-
-<p align="center">
-  <img src="results/plots/performance_comparison.png" width="800" alt="Performans Karşılaştırması">
-</p>
-
-* **Sol:** Detection modelleri mAP karşılaştırması.
-* **Sağ:** Sınıflandırma modelleri Doğruluk (Accuracy) ve F1 skorları.
